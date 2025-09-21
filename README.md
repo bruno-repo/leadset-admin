@@ -2,6 +2,8 @@
 
 A comprehensive lead management system with automated order processing, state-based lead caps, and automation capabilities.
 
+![VMware GIF](vmware_mnNq8uYnzm.gif)
+
 ## Features
 
 ### Order Management
